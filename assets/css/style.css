@@ -1,0 +1,68 @@
+/* Global Styles */
+
+table{
+    width: 80%;
+    border: 1px solid lightgrey;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+td {
+    padding: 8px;
+}
+th {
+    background-color: #303030;
+    padding: 10px;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color: lightgrey;
+}
+
+
+a { 
+    cursor: pointer; 
+}
+.well {
+    background: rgba(128,128,128,.35);
+    border: none;
+}
+#swell{
+    padding: 8px;
+    margin: 0;
+}
+
+#jumbo_wording {
+    color: white;
+}
+
+
+
+/* Individual Property Styles */
+#propimage{
+	width: 100%;
+}
+
+
+
+/* Form Styles */
+.instructions{
+    margin-bottom: 15px;
+    font-size: 90%;
+}
+#create_section{
+    margin-bottom: 20px;
+}
+
+
+
+/* Home Page styles */
+.jumbotron {
+    background-image: url("../images/includes/asphalt4.jpg");
+    background-position: 50% bottom;
+    background-size: cover;
+}
+
+
+
+
+
